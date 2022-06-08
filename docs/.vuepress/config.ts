@@ -43,5 +43,6 @@ export default defineUserConfig({
                 link: '/post',
             },
         ],
+        contributors: false,
     }),
 })
