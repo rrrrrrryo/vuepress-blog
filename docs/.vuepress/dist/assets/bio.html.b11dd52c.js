@@ -1,0 +1,1 @@
+const e={key:"v-0d6d92ca",path:"/bio.html",title:"",lang:"ja",frontmatter:{sidebar:!1},excerpt:"",headers:[{level:2,title:"About me",slug:"about-me",children:[{level:3,title:"rrrrrrryo",slug:"rrrrrrryo",children:[]}]}],git:{updatedTime:16546915e5,contributors:[{name:"Ryo Ota",email:"ota.ryo.1026@gmail.com",commits:1}]},filePathRelative:"bio.md"};export{e as data};

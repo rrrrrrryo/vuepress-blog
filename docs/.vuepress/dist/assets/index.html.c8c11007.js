@@ -1,0 +1,1 @@
+const t={key:"v-15217c36",path:"/post/",title:"Blog Pages",lang:"ja",frontmatter:{sidebar:!1},excerpt:"",headers:[],git:{updatedTime:16546915e5,contributors:[{name:"Ryo Ota",email:"ota.ryo.1026@gmail.com",commits:1}]},filePathRelative:"post/README.md"};export{t as data};
